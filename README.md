@@ -1,5 +1,5 @@
 # Automatic-Garage-Door-Controller-
-Assignment 5.2
+
 Automatic Garage Door Controller 
 
 Introduction: -
